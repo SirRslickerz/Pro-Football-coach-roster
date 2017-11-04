@@ -1,4 +1,4 @@
-## Antdroid/Minotauri NFL Roster for 2017-18 Season
+## NFL Roster for 2017-18 Season
 ## version 1.50 (09-15-2017)
 ##Changelog
 ##v1.0 Initial Release
